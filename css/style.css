@@ -1,0 +1,19 @@
+
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+      height: 100vh;
+    }
+  }
+  .welcome-section{
+      height: 100vh;
+  }
+  .navbar{
+      position: fixed;
+      top: 0;
+      text-decoration: aqua;
+  }
+  .header{
+    text-align: center;
+    text-emphasis-color: rgb(255, 60, 0);
+  }
